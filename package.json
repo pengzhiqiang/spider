@@ -1,0 +1,22 @@
+{
+  "name": "spider",
+  "version": "1.0.0",
+  "main": "spider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "iconv-lite": "^0.4.18",
+    "jsdom": "^11.1.0",
+    "mongodb": "^2.2.30",
+    "request": "^2.81.0"
+  },
+  "dependencies": {
+    "iconv-lite": "^0.4.18",
+    "request": "^2.81.0"
+  },
+  "description": "" 
+}
